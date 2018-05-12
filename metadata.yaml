@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38219#A-General-Introduction-to-Psychoanalysis
 gutenberg_issued: '2011-12-04'
 gutenberg_type: Text
 identifiers:
